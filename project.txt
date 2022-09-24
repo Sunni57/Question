@@ -1,0 +1,13 @@
+1: Javascript\
+2: HTML
+3:
+4: In relative you can only move it on the positions you put in the code, in absolute you can move it anywhere.
+5:
+6: JSX (combination of Java and HTML)
+7: Snack
+8: Load the components and the "text" "button" and "View" then write the render and return functions then do the styling and then 
+test and see the app.
+
+9: To display all the stuff you have coded
+10: Returning whatever you have written inside it.
+11: Styling, Title, fontSize.
